@@ -42,5 +42,5 @@ Soy Software Engineer con más de 5 años de experiencia en desarrollo full-stac
 
 ## 📬 Encuéntrame en
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rosa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rosamaldonado-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-tu--usuario-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rosa-uwur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rosamaldonado-dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rosamaldonado-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-rosa-uwur-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rosa-uwur)
